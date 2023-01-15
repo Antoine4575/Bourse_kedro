@@ -125,3 +125,13 @@ To automatically strip out all output cell contents before committing to `git`, 
 ## Test a new topci
 
 the topic it about anything. End
+
+
+## Test for Soyoung
+
+Soyoung is So. End
+
+
+## Test for Soyoung number 2
+
+Soyoung is So and So is Soyoung. End
